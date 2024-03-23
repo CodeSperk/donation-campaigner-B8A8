@@ -1,8 +1,9 @@
+import Banner from "../../components/banner/Banner";
 
 const Home = () => {
   return (
-    <div className="p-4 min-h-[100vh]">
-
+    <div className="min-h-[100vh]">
+        <Banner></Banner>
 
       home
     </div>
