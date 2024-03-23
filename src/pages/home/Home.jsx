@@ -1,9 +1,10 @@
-import { Button } from "@material-tailwind/react";
 
 const Home = () => {
   return (
-    <div className="p-4">
-      <Button>Button home</Button>;
+    <div className="p-4 min-h-[100vh]">
+
+
+      home
     </div>
   );
 };
