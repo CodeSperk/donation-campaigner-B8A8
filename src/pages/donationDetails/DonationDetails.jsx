@@ -8,12 +8,16 @@ import {
 import { useParams } from "react-router-dom";
 import useDonationData from "../../hooks/useDonationData";
 import { useEffect, useState } from "react";
+import { saveToLocalStorage } from "../../hooks/localStorage";
 
 const DonationDetails = () => {
   const [singleData, setSingleData] = useState({});
   const {data, loading} = useDonationData();
   const {id} = useParams();
-  
+
+  const handleDonate = ()=> {
+    saveToLocalStorage(singleData);
+  }
 
 useEffect(()=>{
   if(data){
@@ -41,6 +45,7 @@ const { banner, title, description, price, text_clr } = singleData || {};
           className="absolute bottom-0 bg-opacity-40 bg-black w-full h-28 rounded-b-md flex items-center pl-8"
         >
           <Button
+            onClick={handleDonate}
             style={{ backgroundColor: text_clr }}
             className="rounded-sm capitalize text-xl"
             color="red"
