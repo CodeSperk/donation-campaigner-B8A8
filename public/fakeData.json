@@ -4,119 +4,155 @@
     "title": "Educational Supplies for Schools",
     "category": "education",
     "img": "https://i.ibb.co/MB14TcZ/Education.jpg",
+    "img2": "https://i.ibb.co/7V4HSk8/rec-edu.jpg",
+    "price":"$200",
     "description": "Contribute educational supplies such as notebooks, pencils, and school bags to support learning in under-resourced schools.",
     "card_bg": "#0052FF26",
     "category_bg": "#0052FF33",
-    "text_clr": "#0052FF"
+    "text_clr": "#0052FF",
+    "banner": "https://i.ibb.co/D4jSzrg/education-banner.png"
   },
   {
     "id": 2,
     "title": "Winter Sweaters Drive",
     "category": "clothing",
     "img": "https://i.ibb.co/TLY8hjd/Clothing.jpg",
+    "img2": "https://i.ibb.co/yXpVLz4/rec-clothing.jpg",
+    "price":"$220",
     "description": "Donate sweaters for all ages to our winter sweaters drive, ensuring everyone stays warm and cozy during the cold season.",
     "card_bg": "#FF444A26",
     "category_bg": "#FF444A33",
-    "text_clr": "#FF444A"
+    "text_clr": "#FF444A",
+    "banner": "https://i.ibb.co/MsjC3p7/clothing-banner.png"
   },
   {
     "id": 3,
     "title": "Mobile Health Clinic Outreach",
     "category": "health",
     "img": "https://i.ibb.co/ZXzRzWz/Health.jpg",
+    "img2": "https://i.ibb.co/dMMRdGP/rec-health.jpg",
+    "price":"$180",
     "description": "Contribute to our mobile health clinic outreach program, bringing medical care and services to remote areas where access is limited.",
     "card_bg": "#79C23F26",
     "category_bg": "#79C23F33",
-    "text_clr": "#79C23F"
+    "text_clr": "#79C23F",
+    "banner": "https://i.ibb.co/FnTVyyV/health-banner.png"
   },
   {
     "id": 4,
     "title": "Community Soup Kitchen Support",
     "category": "food",
     "img": "https://i.ibb.co/tqcY9rR/Food.jpg",
+    "img2": "https://i.ibb.co/mbcGRKY/rec-food.jpg",
+    "price":"$250",
     "description": "Support our community soup kitchen by donating funds or volunteering your time to help serve meals to those in need.",
     "card_bg": "#F8714726",
     "category_bg": "#F8714733",
-    "text_clr": "#F87147"
+    "text_clr": "#F87147",
+    "banner": "https://i.ibb.co/FzxgqVc/food-banner.png"
   },
   {
     "id": 5,
     "title": "Warm Winter Jackets for Children",
     "category": "clothing",
     "img": "https://i.ibb.co/TLY8hjd/Clothing.jpg",
+    "img2": "https://i.ibb.co/yXpVLz4/rec-clothing.jpg",
+    "price":"$280",
     "description": "Donate to provide warm winter jackets for children in need, ensuring they stay protected from the cold weather.",
     "card_bg": "#FF444A26",
     "category_bg": "#FF444A33",
-    "text_clr": "#FF444A"
+    "text_clr": "#FF444A",
+    "banner": "https://i.ibb.co/MsjC3p7/clothing-banner.png"
   },
   {
     "id": 6,
     "title": "Healthcare Awareness Campaign",
     "category": "health",
     "img": "https://i.ibb.co/ZXzRzWz/Health.jpg",
+    "img2": "https://i.ibb.co/dMMRdGP/rec-health.jpg",
+    "price":"$120",
     "description": "Support our healthcare awareness campaign by funding initiatives aimed at promoting health education and disease prevention.",
     "card_bg": "#79C23F26",
     "category_bg": "#79C23F33",
-    "text_clr": "#79C23F"
+    "text_clr": "#79C23F",
+    "banner": "https://i.ibb.co/FnTVyyV/health-banner.png"
   },
   {
     "id": 7,
     "title": "Books for Underprivileged Students",
     "category": "education",
     "img": "https://i.ibb.co/MB14TcZ/Education.jpg",
+    "img2": "https://i.ibb.co/7V4HSk8/rec-edu.jpg",
+    "price":"$200",
     "description": "Support education by donating books to underprivileged students, helping them access valuable learning resources.",
     "card_bg": "#0052FF26",
     "category_bg": "#0052FF33",
-    "text_clr": "#0052FF"
+    "text_clr": "#0052FF",
+    "banner": "https://i.ibb.co/D4jSzrg/education-banner.png"
   },
   {
     "id": 8,
     "title": "Emergency Food Relief",
     "category": "food",
     "img": "https://i.ibb.co/tqcY9rR/Food.jpg",
+    "img2": "https://i.ibb.co/mbcGRKY/rec-food.jpg",
+    "price":"$300",
     "description": "Donate to our emergency food relief program, helping families facing hunger crises access immediate assistance.",
     "card_bg": "#F8714726",
     "category_bg": "#F8714733",
-    "text_clr": "#F87147"
+    "text_clr": "#F87147",
+    "banner": "https://i.ibb.co/FzxgqVc/food-banner.png"
   },
   {
     "id": 9,
     "title": "Scholarship Fund for Underprivileged Students",
     "category": "education",
     "img": "https://i.ibb.co/MB14TcZ/Education.jpg",
+    "img2": "https://i.ibb.co/7V4HSk8/rec-edu.jpg",
+    "price":"$250",
     "description": "Support underprivileged students' education by contributing to our scholarship fund, providing them with opportunities for a brighter future.",
     "card_bg": "#0052FF26",
     "category_bg": "#0052FF33",
-    "text_clr": "#0052FF"
+    "text_clr": "#0052FF",
+    "banner": "https://i.ibb.co/D4jSzrg/education-banner.png"
   },
   {
     "id": 10,
     "title": "Nutritious Meal Kits for Families",
     "category": "food",
     "img": "https://i.ibb.co/tqcY9rR/Food.jpg",
+    "img2": "https://i.ibb.co/mbcGRKY/rec-food.jpg",
+    "price":"$260",
     "description": "Contribute towards providing nutritious meal kits for families facing food insecurity, ensuring they have access to healthy food.",
     "card_bg": "#F8714726",
     "category_bg": "#F8714733",
-    "text_clr": "#F87147"
+    "text_clr": "#F87147",
+    "banner": "https://i.ibb.co/FzxgqVc/food-banner.png"
   },
   {
     "id": 11,
     "title": "Winter Coats Drive",
     "category": "clothing",
     "img": "https://i.ibb.co/TLY8hjd/Clothing.jpg",
+    "img2": "https://i.ibb.co/yXpVLz4/rec-clothing.jpg",
+    "price":"$160",
     "description": "Join our winter coats drive and donate gently used or new coats to keep individuals warm during the cold months.",
     "card_bg": "#FF444A26",
     "category_bg": "#FF444A33",
-    "text_clr": "#FF444A"
+    "text_clr": "#FF444A",
+    "banner": "https://i.ibb.co/MsjC3p7/clothing-banner.png"
   },
   {
     "id": 12,
     "title": "Medical Supplies for Remote Communities",
     "category": "health",
     "img": "https://i.ibb.co/ZXzRzWz/Health.jpg",
+    "img2": "https://i.ibb.co/dMMRdGP/rec-health.jpg",
+    "price":"$300",
     "description": "Help remote communities by donating essential medical supplies, enabling access to basic healthcare services.",
     "card_bg": "#79C23F26",
     "category_bg": "#79C23F33",
-    "text_clr": "#79C23F"
+    "text_clr": "#79C23F",
+    "banner": "https://i.ibb.co/FnTVyyV/health-banner.png"
   }
 ]

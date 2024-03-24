@@ -10,7 +10,7 @@ const Banner = () => {
         <div className="absolute inset-0 bg-[url('/resources/Rectangle-4288.png')] bg-cover bg-center bg-no-repeat opacity-10">
 
         </div>
-
+ 
 
       <div className="max-w-7xl mx-auto px-4 md:px-8 lg:px-12 flex flex-col justify-center items-center h-full gap-4">
         <Typography variant="h2">I Grow By Helping People In Need</Typography>
